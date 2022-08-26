@@ -151,3 +151,9 @@ You need to fillup the below variables in order to use it in Okteto
 - [Aishik Tokdar](https://github.com/aishik2005) for Adding Guide to Deploy on Railway.app , Qovery , Clever Cloud , Scalingo and some other Code Improvements.Also Added Heroku Workflow Deployment Method.
 - [Katarina](https://github.com/tiararosebiezetta) for adding the ability to be deployed to Clever Cloud and Scanlingo
 - [Miss Emily](https://github.com/missemily2022) for adding Support of Okteto Cloud Deployment as well as improving little layout
+
+
+
+
+
+https://www.heroku.com/deploy
